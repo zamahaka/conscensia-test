@@ -18,3 +18,6 @@
 - [DragAndDropViewModel](app/src/main/java/com/yuste/conscensia/presentation/DragAndDropViewModel.kt): State holder and ui event consumer
 - [DragAndDropFragment](app/src/main/java/com/yuste/conscensia/presentation/DragAndDropFragment.kt): Ui wiring and state binding
 - [DragAndDropAlert](app/src/main/java/com/yuste/conscensia/presentation/DragAndDropAlert.kt): Alert for DragAndDrop ui
+
+# Example
+![ex](example.gif)
