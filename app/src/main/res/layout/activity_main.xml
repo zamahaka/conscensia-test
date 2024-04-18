@@ -7,4 +7,10 @@
     tools:context=".MainActivity">
     <!-- CoordinatorLayout ensures consistent snackbar position, including window insets -->
 
+    <androidx.fragment.app.FragmentContainerView
+        android:id="@+id/fragmentContainer"
+        android:name="com.yuste.conscensia.presentation.DragAndDropFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
 </androidx.coordinatorlayout.widget.CoordinatorLayout>
