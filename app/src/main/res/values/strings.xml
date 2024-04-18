@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">conscensia-test</string>
+    <string name="contentDescription_dragAndDropChild">Drag and drop me</string>
+    <string name="alertMessage_reposition_success">Dropped at relative (%1$.2f, %2$.2f)</string>
 </resources>
